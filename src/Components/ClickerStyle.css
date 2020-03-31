@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    font-size: 100px;
+}
+.reset{
+    padding: 5px 15px;
+    font-size: 14px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    background-color: yellow;
+    font-weight: bold;
+}
+.reset:hover{
+    background-color: rgb(202, 202, 0);
+}
+.count{
+    padding: 5px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+.count:hover{
+    background-color: rgb(128, 206, 11);
+}
